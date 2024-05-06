@@ -8,11 +8,11 @@ public class ExerciciosImpossiveis {
 
     public static void main(String[] args) {
         
-        Rodar rodar = new Rodar();
+        /*Rodar rodar = new Rodar();
         rodar.init();
         
         Exercicio2 rodar2 = new Exercicio2();
-        rodar2.init();
+        rodar2.init();*/
         
         Exercicio3 rodar3 = new Exercicio3();
         rodar3.init();
